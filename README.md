@@ -17,7 +17,7 @@ Our Project is to create a website that offers care & support for individuals, c
 
 Our project "FitBrainz" provides multiple routes to have a stress-free mind and feel a little relieved in this busy world. We have included mantras, 30 days rehab program, mood/personality test, online games, meditating exercises, standup comedy videos, and much more by keeping the needs and interests of a stressed person.
 
-## :maple_leaf: [Click here](https://drive.google.com/file/d/1lNerx0Hcoi9Kiufd_Wip2xwBn8gr5LQK/view) to view Presetation
+## :maple_leaf: [Click here](https://drive.google.com/file/d/1lNerx0Hcoi9Kiufd_Wip2xwBn8gr5LQK/view) to view Presentation
 
 ## :maple_leaf: [Click here](https://www.youtube.com/watch?v=k19DwQau7DE) to view Video
 
